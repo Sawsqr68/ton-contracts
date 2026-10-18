@@ -22,7 +22,7 @@
     "@openland/patterns": "^0.0.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.15.5",
+    "@babel/core": "^7.29.6",
     "@babel/preset-env": "^7.15.6",
     "@babel/preset-typescript": "^7.15.0",
     "@types/bn.js": "^5.1.0",
